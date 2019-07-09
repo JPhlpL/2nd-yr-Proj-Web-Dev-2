@@ -1,0 +1,129 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background-image: url(4.jpg);
+	background-size: cover;
+}
+
+.desgn
+{
+
+	height: 600px;
+	width: 450px 450px 450px 450px;
+	background: rgba(0, 0, 0, 0.4);
+	padding: 30px 1px 260px 1px;
+	text-align: center;
+	margin: 0;
+	margin-top: 3%;
+	margin-bottom: 3%;
+	margin-right: 7%;
+	margin-left: 7%;
+	color: white;
+	font-family: 'Century Gothic',sans-serif;
+	
+}
+
+.head1
+{
+	font-size: 200%;
+	font-family: "Arial Black", Gadget, sans-serif;
+	margin-left: 20%;
+	padding-top: 30px;
+	color: rgba(80, 91, 143, 1);
+
+	
+}
+
+.head3{
+	font-size: 100%;
+	font-family: "Arial Black", Gadget, sans-serif;
+	margin-left: 20.5%;
+	color: rgba(80, 91, 143, 1);
+
+	
+}
+
+.header{
+	border: 1px;
+	border-top-style: hidden;
+	border-left-style: hidden;
+	border-right-style: hidden;
+	border-bottom-style: double;
+	border-width: 3px;
+	background: rgba(0, 0, 0, 0.4);
+	height: 155px;
+}
+
+.menu{
+	border: 1px;
+	border-top-style: hidden;
+	border-left-style: hidden;
+	border-right-style: hidden;
+	border-bottom-style: double;
+	border-width: 3px;
+	background: black;
+	height: 50px;
+}
+
+li{
+	float:left;
+	
+}
+
+ul
+{
+    list-style-type: none;
+    margin: 0px ;
+    height: 100px;
+    overflow: hidden;
+    margin-left: 15%;
+    
+
+
+}
+
+a:link,a:visited{
+display: block;
+color: white;
+background-color: black;
+ text-align: center;
+ text-decoration: none;
+ width: 150px;
+ margin: 8%;
+ margin-right: 20%;
+
+}
+
+a:hover,a:active{
+background-color: gray;
+height: 30px;
+text-align: center;
+display: block;
+
+
+}
+
+.f1{
+text-align: left;
+margin-left: 40px;
+
+}
+
+.f2{
+	text-align: right;
+	margin-right: 40px;
+}
+
+.end{
+	border: 1px;
+	border-top-style: double;
+	border-left-style: hidden;
+	border-right-style: hidden;
+	border-bottom-style: double;
+	border-width: 3px;
+	background: rgba(37, 48, 59, 1);
+	height: 60px;
+	text-align: center;
+
+}
